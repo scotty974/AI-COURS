@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python train.py)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'fix\\(pmc\\): correct activations and backward derivative for XOR *)",
+      "Bash(git push *)"
+    ]
+  }
+}
